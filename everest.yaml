@@ -1,0 +1,5 @@
+- Name: FirstCampaign
+  Version: 1.0.0
+  Dependencies:
+    - Name: Everest
+      Version: 1.4847.0
